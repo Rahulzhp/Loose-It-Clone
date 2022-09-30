@@ -6,18 +6,7 @@ import axios from "axios";
 
 
 const Login = () => {
-  
-  return (
-    <Box width="40%" margin="auto">
-      <FormControl isRequired>
-  <FormLabel>Email</FormLabel>
-  <Input placeholder='Enter email address' />
-</FormControl>
-<FormControl isRequired>
-  <FormLabel>Password</FormLabel>
-  <Input placeholder='Enter Password' />
-</FormControl>
-    </Box>
+
   );
 };
 
