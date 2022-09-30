@@ -16,7 +16,7 @@ const Navbar = () => {
   color='blackAlpha.700'
   fontWeight='bold'
 >
-  <GridItem  pl='483' pt='2.5' bg='blue.300' area={'header'}>
+  <GridItem  pl='483' pt='2.5' bg='#85E0FF' area={'header'}>
   <Link to="/login">lose it! is hiring! Click here to see our open positions.</Link>
   </GridItem>
   
