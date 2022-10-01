@@ -1,7 +1,5 @@
 import React from "react";
-import axios from "axios";
-import { useState, useEffect } from "react";
-import { Container, VStack, Box, Grid, GridItem, Image, Text, Flex, Spacer, Button,inherit,auto } from "@chakra-ui/react";
+import { Container, Box, Image, Text, Flex, Spacer, Button} from "@chakra-ui/react";
 import { Link } from "react-router-dom";
 
 
@@ -20,7 +18,7 @@ const Home = () => {
         </Box>
         <Spacer />
         <Box marginTop={70} marginRight={49}>
-          <Button color="white" bg="#F5801E" letterSpacing={1.5}><Link to="/login">Login</Link></Button>
+          <Button color="white" bg="#F5801E" letterSpacing={1.5}><Link to="/cart">Login</Link></Button>
         </Box>
       </Flex>
       <Container maxW='100%'  bg='' >
