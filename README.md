@@ -1,17 +1,17 @@
-# Anthropologie-Clone
-Anthropologi is an e-commerce website for clothing, jewelry, home furniture, decoration, beauty products, and gifts.
+# Loose It -Clone
+Lose It! is a calorie counter & food diary diet app that helps you stick to your diet and achieve weight loss that fits! It was created with the goal of helping members reach a healthy weight by providing them with the tools they need for success.
 
 # Teach-Stack
-React | Chaka-ui | Api | Styled-Component
+React | Chaka-ui | Styled-Component
 
 # It is an individual project
 
 # Web View
-https://mellow-taiyaki-a38052.netlify.app/
+https://instinctive-start-5063.vercel.app/
 
 # Images
 
-![MasterHead](https://i.ibb.co/m5NRTMq/prject2.png)
+![MasterHead](https://i.ibb.co/8B0xKSr/Screenshot-195.png)
 #
 ![MasterHead](https://i.ibb.co/sgY7vQg/Antpolegi2.png)
 #
