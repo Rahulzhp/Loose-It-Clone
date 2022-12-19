@@ -13,6 +13,6 @@ https://instinctive-start-5063.vercel.app/
 
 ![MasterHead](https://i.ibb.co/8B0xKSr/Screenshot-195.png)
 #
-![MasterHead](https://i.ibb.co/sgY7vQg/Antpolegi2.png)
+![MasterHead](https://i.ibb.co/5Rjfvxj/Screenshot-2022-12-19-134457.png)
 #
-![MasterHead](https://i.ibb.co/Y0VRn7X/Antpolegi3.png)
+![MasterHead](https://i.ibb.co/F50SJ1V/Screenshot-2022-12-19-134737.png)
